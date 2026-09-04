@@ -10,6 +10,9 @@ sphinx_env/
 .DS_Store
 Thumbs.db
 
+# Local Git Credential Manager diagnostics.
+gcm-diagnose.log
+
 # Old local drafts/backups; the active Sphinx project uses source/.
 back/
 LHClearn/
