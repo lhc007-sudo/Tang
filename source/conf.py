@@ -11,6 +11,7 @@ release = "1.0"
 extensions = [
     "myst_parser",
     "sphinx.ext.autosectionlabel",
+    "sphinx.ext.mathjax",
 ]
 
 source_suffix = {
@@ -45,6 +46,8 @@ myst_enable_extensions = [
     "deflist",
     "fieldlist",
     "tasklist",
+    "dollarmath",
+    "amsmath",
 ]
 
 # Keep this file directly executable by Sphinx from any working directory.

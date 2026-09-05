@@ -37,7 +37,6 @@ Tang 在 Windows 中准备计算任务，由便携式 WSL 后端自动选择电�
 
 - 第一次使用请先阅读[安装指南](guide/installation.md)。
 - 已经安装完成，可以直接查看[快速开始](guide/quick-start.md)。
-- 想了解 Windows 界面，请查看[图形界面说明](guide/gui.md)。
 - 遇到问题时，请查看[故障排查](reference/troubleshooting.md)。
 
 ```{toctree}
@@ -48,7 +47,6 @@ Tang 在 Windows 中准备计算任务，由便携式 WSL 后端自动选择电�
 guide/introduction
 guide/installation
 guide/quick-start
-guide/gui
 ```
 
 ```{toctree}
@@ -78,4 +76,6 @@ reference/build-and-release
 :caption: 关于
 
 about/support
+about/cite
+about/license
 ```
