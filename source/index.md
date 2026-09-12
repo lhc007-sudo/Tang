@@ -22,7 +22,7 @@ TANG 在 Windows 中准备计算任务，由便携式 WSL 后端自动选择电�
   </a>
   <a class="module-card violet" href="modules/nuclear-motion.html">
     <img src="_static/1-2.png" alt="核运动理论图标">
-    <strong>JLPES-CHEM</strong>
+    <strong>JLN-CHEM</strong>
     <span>超精细光谱</span>
     <small>Support · 李辉</small>
   </a>
