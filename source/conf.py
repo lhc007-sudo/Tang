@@ -3,9 +3,9 @@ from __future__ import annotations
 from pathlib import Path
 
 
-project = "Tang"
-copyright = "2026, Tang developers"
-author = "Tang developers"
+project = "TANG"
+copyright = "2026, TANG developers"
+author = "TANG developers"
 release = "1.0"
 
 extensions = [
@@ -24,7 +24,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 autosectionlabel_prefix_document = True
 
 html_theme = "sphinx_rtd_theme"
-html_title = "Tang 文档"
+html_title = "TANG 文档"
 html_logo = "_static/logo.png"
 html_favicon = "_static/favicon.ico"
 html_static_path = ["_static"]

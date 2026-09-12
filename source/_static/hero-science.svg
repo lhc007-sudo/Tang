@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Tang molecular science platform</title>
-  <desc id="desc">Electron orbit, vibrating nuclei and molecular dynamics symbols surrounding the Tang identity.</desc>
+  <title id="title">TANG molecular science platform</title>
+  <desc id="desc">Electron orbit, vibrating nuclei and molecular dynamics symbols surrounding the TANG identity.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#102f55"/>
@@ -24,7 +24,7 @@
   <circle cx="1080" cy="55" r="145" fill="#69a5ff" opacity=".2"/>
   <circle cx="80" cy="410" r="130" fill="#35d6e8" opacity=".13"/>
   <g transform="translate(70 70)">
-    <text x="0" y="118" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="108" font-weight="750">Tang</text>
+    <text x="0" y="118" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="108" font-weight="750">TANG</text>
     <text x="5" y="166" fill="#83ecff" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="5">MOLECULAR SCIENCE</text>
     <text x="5" y="222" fill="#e9f4ff" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25">电子结构 · 核运动 · 分子动力学</text>
     <rect x="5" y="256" width="365" height="4" rx="2" fill="#67e7ff" opacity=".8"/>

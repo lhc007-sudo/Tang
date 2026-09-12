@@ -1,4 +1,4 @@
-# 分子动力学 · PYGAMD
+# PYGAMD
 
 PYGAMD v1 是一个以 Python/Numba 为接口、面向 GPU 加速的分子动力学（MD）引擎。计算由一个简洁的 Python 脚本组织：读取 MST 初始构型，建立 `application.dynamics`，加入势函数、积分器和输出对象，最后调用 `app.run(N)`。本模块适合 Lennard–Jones（LJ）、DPD 以及带键、角和二面角的粗粒化体系。
 

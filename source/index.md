@@ -1,11 +1,11 @@
-# Tang 分子科学计算平台
+# TANG 分子科学计算平台
 
 一个界面，连接 Windows 与科学计算环境。
 
-Tang 在 Windows 中准备计算任务，由便携式 WSL 后端自动选择电子结构或分子动力学计算引擎，并将计算结果返回 Windows。
+TANG 在 Windows 中准备计算任务，由便携式 WSL 后端自动选择电子结构或分子动力学计算引擎，并将计算结果返回 Windows。
 
 ```{image} _static/hero-science.svg
-:alt: Tang 分子科学计算平台示意图，包含电子轨道、原子核振动和分子动力学元素
+:alt: TANG 分子科学计算平台示意图，包含电子轨道、原子核振动和分子动力学元素
 :class: tang-hero-image
 :align: center
 ```
@@ -15,20 +15,21 @@ Tang 在 Windows 中准备计算任务，由便携式 WSL 后端自动选择电�
 <div class="module-grid">
   <a class="module-card blue" href="modules/electronic-structure.html">
     <img src="_static/1-1.png" alt="电子结构理论图标">
-    <strong>电子结构理论</strong>
-    <span>WFT、DFT、SUHF、NEB、POM</span>
+    <strong>JiFT-CHEM</strong>
+    <span>量子化学计算</span>
+	<span>多酸及分子筛合成</span>
     <small>Support  曲泽星 · 苏忠民 · 徐昕</small>
   </a>
   <a class="module-card violet" href="modules/nuclear-motion.html">
     <img src="_static/1-2.png" alt="核运动理论图标">
-    <strong>核运动理论</strong>
-    <span>为后续核运动计算模块预留</span>
+    <strong>JLPES-CHEM</strong>
+    <span>超精细光谱</span>
     <small>Support · 李辉</small>
   </a>
   <a class="module-card green" href="modules/molecular-dynamics.html">
     <img src="_static/1-3.png" alt="分子动力学图标">
-    <strong>分子动力学</strong>
-    <span>基于 PYGAMD 的 GPU 加速模拟</span>
+    <strong>PYGAMD</strong>
+    <span>分子动力学模拟</span>
     <small>Support · 朱有亮 · 吕中元</small>
   </a>
 </div>

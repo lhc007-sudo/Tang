@@ -14,11 +14,12 @@ body { color: #203248; }
 }
 
 .wy-side-nav-search > a img.logo {
-  width: 82px;
-  height: 82px;
-  border-radius: 20px;
+  width: 120px;
+  height: 120px;
+  border-radius: 24px;
   padding: 0;
   background: transparent;
+  margin: 12px auto 16px;
 }
 
 .wy-nav-side { background: #1f2c3a; }
