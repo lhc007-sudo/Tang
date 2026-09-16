@@ -2,10 +2,10 @@
 
 一个界面，连接 Windows 与科学计算环境。
 
-TANG 在 Windows 中准备计算任务，由便携式 WSL 后端自动选择电子结构或分子动力学计算引擎，并将计算结果返回 Windows。
+TANG(唐)在 Windows 中准备计算任务，由便携式 WSL 后端自动选择电子结构或分子动力学计算引擎，并将计算结果返回 Windows。
 
 ```{image} _static/hero-science.svg
-:alt: TANG 分子科学计算平台示意图，包含电子轨道、原子核振动和分子动力学元素
+:alt: TANG(唐)分子科学计算平台示意图，包含电子轨道、原子核振动和分子动力学元素
 :class: tang-hero-image
 :align: center
 ```
@@ -18,7 +18,8 @@ TANG 在 Windows 中准备计算任务，由便携式 WSL 后端自动选择电�
     <strong>JiFT-CHEM</strong>
     <span>量子化学计算</span>
 	<span>多酸及分子筛合成</span>
-    <small>Support  曲泽星 · 苏忠民 · 徐昕</small>
+	<span>光化学</span>
+    <small>Support · 曲泽星 · 苏忠民 · 徐昕</small>
   </a>
   <a class="module-card violet" href="modules/nuclear-motion.html">
     <img src="_static/1-2.png" alt="核运动理论图标">

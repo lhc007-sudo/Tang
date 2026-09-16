@@ -3,7 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 
 
-project = "TANG"
+project = "TANG (唐)"
 copyright = "2026, TANG developers"
 author = "TANG developers"
 release = "1.0"
