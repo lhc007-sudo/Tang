@@ -16,15 +16,15 @@ TANG(唐)在 Windows 中准备计算任务，由便携式 WSL 后端自动选择
   <a class="module-card blue" href="modules/electronic-structure.html">
     <img src="_static/1-1.png" alt="电子结构理论图标">
     <strong>JiFT-CHEM</strong>
-    <span>量子化学计算</span>
-	<span>多酸及分子筛合成</span>
-	<span>光化学</span>
+    <span>AI+量子化学</span>
+	<span>多酸/分子筛</span>
+	<span>激发态/光化学</span>
     <small>Support · 曲泽星 · 苏忠民 · 徐昕</small>
   </a>
   <a class="module-card violet" href="modules/nuclear-motion.html">
     <img src="_static/1-2.png" alt="核运动理论图标">
     <strong>JLN-CHEM</strong>
-    <span>超精细光谱</span>
+    <span>高分辨光谱</span>
     <small>Support · 李辉</small>
   </a>
   <a class="module-card green" href="modules/molecular-dynamics.html">
