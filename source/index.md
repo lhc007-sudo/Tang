@@ -2,7 +2,7 @@
 
 一个界面，连接 Windows 与科学计算环境。
 
-TANG(唐)在 Windows 中准备计算任务，由便携式 WSL 后端自动选择电子结构或分子动力学计算引擎，并将计算结果返回 Windows。
+TANG(唐)——Theory of AI<sup>+</sup> initio electronic structure, Nuclei motion, and Giant macromolecules)在 Windows 中准备计算任务，由便携式 WSL 后端自动选择电子结构或分子动力学计算引擎，并将计算结果返回 Windows。
 
 ```{image} _static/hero-science.svg
 :alt: TANG(唐)分子科学计算平台示意图，包含电子轨道、原子核振动和分子动力学元素
@@ -16,7 +16,7 @@ TANG(唐)在 Windows 中准备计算任务，由便携式 WSL 后端自动选择
   <a class="module-card blue" href="modules/electronic-structure.html">
     <img src="_static/1-1.png" alt="电子结构理论图标">
     <strong>JiFT-CHEM</strong>
-    <span>AI+量子化学</span>
+    <span>AI<sup>+</sup>量子化学</span>
 	<span>多酸/分子筛</span>
 	<span>激发态/光化学</span>
     <small>Support · 曲泽星 · 苏忠民 · 徐昕</small>
@@ -24,13 +24,14 @@ TANG(唐)在 Windows 中准备计算任务，由便携式 WSL 后端自动选择
   <a class="module-card violet" href="modules/nuclear-motion.html">
     <img src="_static/1-2.png" alt="核运动理论图标">
     <strong>JLN-CHEM</strong>
-    <span>高分辨光谱</span>
+    <span>全量子高分辨光谱</span>
     <small>Support · 李辉</small>
   </a>
   <a class="module-card green" href="modules/molecular-dynamics.html">
     <img src="_static/1-3.png" alt="分子动力学图标">
     <strong>PYGAMD</strong>
     <span>分子动力学模拟</span>
+	<span>超分子自组装</span>
     <small>Support · 朱有亮 · 吕中元</small>
   </a>
 </div>
