@@ -1,8 +1,8 @@
-# TANG 分子科学计算平台
+# TANG（唐）— 智能科学计算平台
 
-一个界面，连接 Windows 与科学计算环境。
+**TANG（唐）** — Theory of AI<sup>+</sup> Electronic Structure, Nuclear Motion, and Giant Macromolecules
 
-TANG(唐)——Theory of AI<sup>+</sup> initio electronic structure, Nuclei motion, and Giant macromolecules)在 Windows 中准备计算任务，由便携式 WSL 后端自动选择电子结构或分子动力学计算引擎，并将计算结果返回 Windows。
+TANG 是一款面向计算化学与分子模拟的一体化智能科学计算平台，以 Windows 为统一交互入口，依托便携式 WSL 科学计算环境，实现电子结构与分子动力学计算引擎的智能调度、任务执行及结果回传。通过简洁直观的操作界面与跨环境无缝协同，让复杂的科学计算更加高效、便捷。
 
 ```{image} _static/hero-science.svg
 :alt: TANG(唐)分子科学计算平台示意图，包含电子轨道、原子核振动和分子动力学元素
